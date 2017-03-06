@@ -11,5 +11,17 @@
     "url": "https://github.com/vlmlee/Worth-Its-Weight-In-Gold/"
   },
   "author": "Michael Lee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "^2.4.9",
+    "@angular/compiler": "^2.4.9",
+    "@angular/core": "^2.4.9",
+    "@angular/platform-browser": "^2.4.9",
+    "@angular/platform-browser-dynamic": "^2.4.9",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.2.0",
+    "typescript": "^2.2.1",
+    "typings": "^2.1.0",
+    "zone.js": "^0.7.7"
+  }
 }
